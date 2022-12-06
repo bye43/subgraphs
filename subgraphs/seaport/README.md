@@ -33,5 +33,5 @@ Count of Unique Addresses which have interacted with the protocol via any transa
 `sell`
 
 ## Useful Links 
-- (https://opensea.io/blog/announcements/introducing-seaport-protocol/)[https://opensea.io/blog/announcements/introducing-seaport-protocol/]
-- (Developer Docs)[https://docs.opensea.io/v2.0/reference/seaport-overview]
+- [https://opensea.io/blog/announcements/introducing-seaport-protocol/](https://opensea.io/blog/announcements/introducing-seaport-protocol/)
+- [Developer Docs](https://docs.opensea.io/v2.0/reference/seaport-overview)
