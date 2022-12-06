@@ -34,5 +34,5 @@ Count of Unique Addresses which have interacted with the protocol via any transa
 
 ## Useful links
 
-- (X2Y2 Website)[https://x2y2.io/]
-- (Developer Docs)[https://x2y2.readme.io/reference/introduction]
+- [X2Y2 Website](https://x2y2.io/)
+- [Developer Docs](https://x2y2.readme.io/reference/introduction)
