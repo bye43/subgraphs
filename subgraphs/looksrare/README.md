@@ -34,5 +34,5 @@ Count of Unique Addresses which have interacted with the protocol via any transa
 
 ## Useful links
 
-- (Looksrare Website)[https://looksrare.org/]
-- (Developer Docs)[https://docs.looksrare.org/developers/welcome]
+- [Looksrare Website](https://looksrare.org/)
+- [Developer Docs](https://docs.looksrare.org/developers/welcome)
